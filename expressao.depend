@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1615407655 source:d:\temp\expressao\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407626 d:\temp\expressao\tads_pilha_fila_aloc_enc.h
+
+1615407852 source:d:\temp\expressao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407695 source:d:\temp\expressao\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407655 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\unicarioca\disciplinas\metodologia_ativa\estrutura_dados\trabalhos\solucoes\expressao\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407626 \\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\unicarioca\disciplinas\metodologia_ativa\estrutura_dados\trabalhos\solucoes\expressao\tads_pilha_fila_aloc_enc.h
+
+1615407852 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\unicarioca\disciplinas\metodologia_ativa\estrutura_dados\trabalhos\solucoes\expressao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407695 source:\\laptop-ljdg36v4\_bot\particao 2\eugenio\cursos\unicarioca\disciplinas\metodologia_ativa\estrutura_dados\trabalhos\solucoes\expressao\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407655 source:c:\Área de trabalho\uezo\ed2 - eugenio\expressao\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1615407626 c:\Área de trabalho\uezo\ed2 - eugenio\expressao\tads_pilha_fila_aloc_enc.h
+
+1615407695 source:c:\Área de trabalho\uezo\ed2 - eugenio\expressao\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1682392063 source:c:\Área de trabalho\uezo\ed2 - eugenio\expressao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADs_pilha_fila_aloc_enc.h"
+	<locale.h>
+
+1690918394 source:c:\Área de trabalho\notação pos-fixa\expressao\expressao\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"TADs_pilha_fila_aloc_enc.h"
+
+1690918394 c:\Área de trabalho\notação pos-fixa\expressao\expressao\tads_pilha_fila_aloc_enc.h
+
+1690918442 source:c:\Área de trabalho\notação pos-fixa\expressao\expressao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADs_pilha_fila_aloc_enc.h"
+	<locale.h>
+
